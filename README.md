@@ -1,5 +1,5 @@
 ### About me
-My name is Ekaterina. I live is St. Petersburg (Russia) and study ML and deep learning for the last couple of years.
+My name is Ekaterina. I have been studying and practicing ML, deep learning and data analysis for the last three years.
 
 I have an extensive experience working in real estate consulting and appraisal industry as an analyst and marketing specialist. In addition to coding and ML experiments, I can handle a wide range of tasks from market research to financial analysis to project management.
 
@@ -10,5 +10,3 @@ You can find me active on [Kaggle](https://www.kaggle.com/ekaterinadranitsyna) a
 Here is a link to my Google developer profile: g.dev/dranitsyna. In 2021 I received a TensorFlow Contributor Award:
 
 <img src="https://developers.google.com/profile/badges/events/tensorflow/contributor-summit/award-winner/badge.png" alt="drawing" width="150" height="150"/>
-
-You can e-mail me directly at ekaterina.dranitsyna@gmail.com
